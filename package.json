@@ -1,0 +1,10 @@
+{
+  "name": "sdd-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal project used to verify installing sdd-engineering from dev-digest-ai-marketplace",
+  "scripts": {
+    "test": "node --test"
+  }
+}
